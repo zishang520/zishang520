@@ -1,4 +1,8 @@
-### Hi there 👋
+### Future friends. Hello!👋
+
+![Disappear520's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zishang520&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishang520&layout=compact&langs_count=12)](https://github.com/zishang520)
 
 <!--
 **zishang520/zishang520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
